@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dilip Kumar Mishra</h1>
+<h1 align="center">Hi 👋, I'm Dilip Mishra</h1>
 <h3 align="center">Frontend Sr. Technical Lead | Application Architect | Passionate about Transformative Digital Experiences</h3>
 
 <p align="center">
@@ -27,14 +27,18 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php">
 </p>
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilipmishra&show_icons=true&theme=radical" alt="Dilip's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilipmishra&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mishradilip&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Dilip GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishradilip&theme=radical&hide_border=false" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishradilip&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
 </p>
 
 ---
@@ -42,6 +46,9 @@
 ### 🌍 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/dilip-mishra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://facebook.com/i.dilipmishra" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://medium.com/@dilip-mishra" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://x.com/i_dilipmishra" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
   <a href="mailto:dilip.mishra900@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
@@ -49,7 +56,9 @@
 
 ### 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- 🚀 *Coming soon...*
+- [🚀 ES6: ECMAScript 2015 Overhauled JavaScript](https://medium.com/@dilip-mishra/es6-ecmascript-2015-brought-a-significant-overhaul-to-javascript-introducing-numerous-new-d172b654e47e)  
+- [🚀 Time Management Skills as a Developer](https://www.linkedin.com/pulse/level-up-your-time-management-skills-developer-dilip-kumar-mishra-ipv5c/?trackingId=216R9Bp9RQS3iCG1jhMDNg%3D%3D)
+- [🚀 Coding Best Practices: Elevate Your Code, Empower Your Development Journey](https://www.linkedin.com/pulse/coding-best-practices-elevate-your-code-empower-journey-mishra-b91ec/?trackingId=216R9Bp9RQS3iCG1jhMDNg%3D%3D)
 <!-- BLOG-POST-LIST:END -->
 
 ---
